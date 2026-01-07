@@ -18,6 +18,8 @@
   </a>
 
   <hr style="height:2px;border:none;background:linear-gradient(90deg, #00c6ff, #0072ff, #00c6ff);background-size:200% 100%;animation:shine 3s linear infinite;">
+  
+  
   <style>@keyframes shine{to{background-position:200% 0}}</style>
 
 </div>
